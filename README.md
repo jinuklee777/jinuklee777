@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinuklee777)](https://github.com/jinuklee777/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777)](https://github.com/jinuklee777/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777&count_private=true&show_icons=true&theme=solarized-light)
 
