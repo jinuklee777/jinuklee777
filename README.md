@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jinuklee777/jinuklee777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Contact
+jinuklee777@soongsil.ac.kr
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777&show_icons=true&theme=radical) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinuklee777&theme=nord_bright)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinuklee777&theme=nord_bright) -->
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777&show_icons=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinuklee777&theme=nord_bright)
+
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -25,6 +36,3 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777&count_private=true&show_icons=true&theme=solarized-light)
-
