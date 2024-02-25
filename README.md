@@ -35,4 +35,18 @@ jinuklee777@soongsil.ac.kr
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<br/>
+	<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/QueryDSL-0289cf?style=flat-square&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+	<br/>
+ 	<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_EB-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_ElastiCache-DC382D?style=flat-square&logo=redis&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+	<img alt="Static Badge" src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
+	<br/>
+	<img alt="Static Badge" src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+	
 </div>
