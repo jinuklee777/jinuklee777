@@ -20,8 +20,6 @@ jinuklee777@soongsil.ac.kr
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777&show_icons=true&theme=radical) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jinuklee777&theme=nord_bright)
-<!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jinuklee777&theme=nord_bright) -->
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinuklee777&show_icons=true&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jinuklee777&theme=nord_bright)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreanair777)](https://solved.ac/koreanair777)
