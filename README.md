@@ -16,7 +16,7 @@
 | 프로젝트 | 기간 | 소개 | 기술 |
 |---|---|---|---|
 | **OpenClaw Assistant** | 2026.08 ~  | GCP에 셀프호스팅한 개인용 AI 비서 | GCP, Docker, Tailscale, Style-Bert-VITS2 Fine-Tuning |
-| **Elemento** | 2026.08 | 산업 부산물 순환거래 플랫폼 (MSA 기반, SKALA 과제) | Spring Cloud, Kafka, Eureka, API Gateway |
+| **[Elemento](https://github.com/jinuklee777/elemento_MSA)** | 2026.08 | 산업 부산물 순환거래 플랫폼 (MSA 기반, SKALA 과제) | Spring Cloud, Kafka, Eureka, API Gateway |
 | **[COGO](https://github.com/Soongsil-CoffeeChat/COGO-DEV-server)** | 2026.05 ~ 2026.07 | 숭실대 교내 멘토링 커피챗 매칭 플랫폼 | Spring Boot, Redis, WebSocket/STOMP |
 | **[Beyond:B](https://github.com/Beyond-B/Beyond-B-Back)** | 2024.01 ~ 2024.02 | 경계선 지능 장애인을 위한 감정·독서활동 기록 서비스 | Spring Boot, MySQL |
 | **[AvAb](https://github.com/TeamAvAb/AvAb-Back)** | 2023.12 ~ 2024.06 | 맞춤형 레크리에이션 프로그램 검색 플랫폼 | Spring Boot, MySQL, Redis |
