@@ -9,7 +9,7 @@
 - **2022.03 ~ 현재**     : 숭실대학교 AI소프트웨어학부
 - **2023.09 ~ 2024.02** : University Makeus Challenge 숭실대 5기 Server
 - **2026.07 ~ 2026.12** : SK AX AI Leader Academy (SKALA) 4기
-- **2026.09 ~**         : Google Developer Groups on Campus Soongsil Univ. 운영진
+- **2026.09 &#126;**    : Google Developer Groups on Campus Soongsil Univ. 운영진
 
 
 ## 📂 Projects
