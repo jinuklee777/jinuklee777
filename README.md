@@ -16,6 +16,7 @@
 
 | 프로젝트 | 기간 | 소개 | 기술 |
 |---|---|---|---|
+| **Agent Handoff Console** <br><sub>공개예정</sub> | 2026.08 ~ | Claude Code · Codex · Antigravity 를 한 대화에서 쓰고, 한도가 차면 작업 맥락을 인계 문서로 묶어 다른 에이전트에게 넘기는 macOS 네이티브 앱. 작업 분해 · 배정 · 검증까지 자동으로 도는 오케스트레이션 포함 | macOS, Claude Code · Codex CLI · Antigravity |
 | **OpenClaw Assistant** | 2026.08 ~  | GCP에 셀프호스팅한 개인용 AI 비서 | GCP, Docker, Tailscale, Style-Bert-VITS2 Fine-Tuning |
 | **[Elemento](https://github.com/jinuklee777/elemento_MSA)** | 2026.08 | 산업 부산물 순환거래 플랫폼 (MSA 기반, SKALA 과제) | Spring Cloud, Kafka, Eureka, API Gateway |
 | **[COGO](https://github.com/Soongsil-CoffeeChat/COGO-DEV-server)** | 2026.05 ~ 2026.07 | 숭실대 교내 멘토링 커피챗 매칭 플랫폼 | Spring Boot, Redis, WebSocket/STOMP |
